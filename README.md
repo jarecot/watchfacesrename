@@ -43,10 +43,10 @@ Android/data/com.topstep.fitcloudpro/files/download/
 
 ## 📂 Folder Example
 
-/FitCloudUploader/
-│
-├── temp_98374.bin ← From FitCloudPro
-├── mywatchface.bin ← Your custom face
+/FitCloudUploader/<br>
+│<br>
+├── temp_75bca5cc566104521...bin ← From FitCloudPro<br>
+├── mywatchface.bin ← Your custom face<br>
 ├── replace_watchface.bat ← This script
 
 
